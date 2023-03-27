@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Client</string>
+    <string name="serverHost">Server Host:</string>
+    <string name="serverPort">Server Port:</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="firstName">First Name:</string>
+    <string name="lastName">Last Name:</string>
+    <string name="emailAddress">Email:</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="signIn">Sign In</string>
+    <string name="register">Register</string>
+    <string name="mapFragmentPlaceholder">Click on a marker to see event details</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="blank_string"></string>
+    <string name="person_name">%1$s</string>
+    <string name="event_details">%1$s</string>
+</resources>
